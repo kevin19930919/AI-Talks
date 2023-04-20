@@ -1,0 +1,5 @@
+FROM python:3.10
+
+VOLUME /app
+WORKDIR /app
+EXPOSE 8501
